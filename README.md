@@ -1,10 +1,6 @@
 ### Welcome to my Github page 👋
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="480px">
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-federicoberto-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federicoberto/)](https://www.linkedin.com/in/ali-noshad-5084741ab/)
-[![Gmail Badge](https://img.shields.io/badge/-fberto@kaist.ac.kr-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:alinoshad96.itsu@gmail.com)](mailto:alinoshad96.itsu@gmail.com)
-
 <!-- ![](https://komarev.com/ghpvc/?username=Juju-botu) -->
 
 -🎯 I'm focusing now, I will update this section over time  
